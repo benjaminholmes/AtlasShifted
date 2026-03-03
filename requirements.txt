@@ -1,0 +1,2 @@
+streamlit
+py5canvas==0.7.2
